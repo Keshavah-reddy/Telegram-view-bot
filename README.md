@@ -1,7 +1,7 @@
 # Views-Telegram
 With this tool، you can click on your Telegram channel for free.
 
-<a href="https://ibb.co/608mW6jN"><img src="https://i.ibb.co/m50GcQfS/Untitled-design.png" alt="Untitled-design" border="0"></a>
+<a href="https://ibb.co/608mW6jN"><img src="https://i.ibb.co/m50GcQfS/Untitled-design.png"></a>
 <br>
 <p align='center'>
 <a href="https://github.com/Tuhinshubhra/CMSeeK/releases/tag/v.1.1.3"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=style=flat-square" alt="version"></a>
