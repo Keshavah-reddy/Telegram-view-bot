@@ -13,7 +13,7 @@ With this tool، you can click on your Telegram channel for free.
 > `Keep in mind that it takes at least 5 to 10 minutes to get started after giving the link to the tool.`
 
 # Install For Kali Linux
-- git clone https://github.com/ERO-HACK/Views-Telegram.git
+- git clone https://github.com/Keshavah-reddy/Telegram-view-bot.git)
 - cd Views Telegram
 - pip/pip3 install -r requirements.txt
 - python main.py
