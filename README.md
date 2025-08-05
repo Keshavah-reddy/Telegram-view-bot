@@ -19,4 +19,3 @@ With this tool، you can click on your Telegram channel for free.
 - python main.py
 -----------------------------------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero-hack&theme=merko&show_icons=true)
