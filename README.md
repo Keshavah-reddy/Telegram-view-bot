@@ -1,7 +1,7 @@
 # Views-Telegram
 With this tool، you can click on your Telegram channel for free.
 
-![Capture](https://github.com/ERO-HACK/Views-Telegram/assets/72475141/0c7563c6-5620-4082-b56d-8e77710cf595)
+![Capture](https://ibb.co/608mW6jN)
 <br>
 <p align='center'>
 <a href="https://github.com/Tuhinshubhra/CMSeeK/releases/tag/v.1.1.3"><img src="https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=style=flat-square" alt="version"></a>
